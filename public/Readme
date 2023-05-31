@@ -1,0 +1,6 @@
+This is how is process
+
+The news fetched from Twitter will be displayed on the webpage in real-time.
+The news will be stored in the specified MongoDB collection.
+The news will be sent to the specified Kafka topic.
+The news will be broadcasted to all connected clients through the WebSocket.
