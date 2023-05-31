@@ -2,7 +2,7 @@
 
 This project performs real-time sentiment analysis on streaming data using machine learning techniques. It aims to classify text data into positive, negative, or neutral sentiments. The project integrates Socket for real-time data visualization, News API for retrieving news data, Kafka server for data streaming, and MongoDB for data storage.
 
-![Dashboard-Design](images/ss of design.png)
+![Dashboard-Design](images/ss  of design.png)
 ## Table of Contents
 
 - [Introduction](#introduction)
