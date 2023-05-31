@@ -26,6 +26,7 @@ To run this project, follow these steps:
 4. Set up MongoDB: Install MongoDB and configure the connection settings.
 5. Obtain News API key: Sign up for News API and obtain an API key for retrieving news data.
 6. Configure the project: Update the configuration files with the required credentials for News API, Kafka server, and MongoDB.
+7. ![Real-data-streaming](images/real_time_news_data.jpeg)
 
 ## Usage
 
